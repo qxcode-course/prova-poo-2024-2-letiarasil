@@ -3,7 +3,8 @@ version: 0.0.1
 expanded:
 - grupo
 - missão
-tasks: {}
+tasks:
+  motouber: 0:0:100
 flags:
   minimum: 0
   reward: 0
